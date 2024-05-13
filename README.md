@@ -1,6 +1,6 @@
 # Mywebsite
 Hello Folks!
-This is my portfolio site to showcase my skill.
+This is My Portfolio Site to Showcase My Skills.
 
 
 
